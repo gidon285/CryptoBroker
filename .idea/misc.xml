@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CryptoBroker/app/src/main/res/layout/activity_cancel_order.xml" value="0.2957427536231884" />
+        <entry key="..\:/CryptoBroker/app/src/main/res/layout/activity_forgot_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/CryptoBroker/app/src/main/res/layout/activity_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/CryptoBroker/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/CryptoBroker/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/CryptoBroker/app/src/main/res/layout/activity_profile.xml" value="0.67" />
+        <entry key="..\:/CryptoBroker/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/CryptoBroker/app/src/main/res/layout/activity_trader.xml" value="0.33" />
+        <entry key="..\:/CryptoBroker/app/src/main/res/layout/popup.xml" value="0.20520833333333333" />
+        <entry key="..\:/CryptoBroker/app/src/main/res/layout/popup_add.xml" value="0.2957427536231884" />
+        <entry key="..\:/CryptoBroker/app/src/main/res/layout/popup_alltrade_cancel_warning.xml" value="0.2957427536231884" />
+        <entry key="..\:/CryptoBroker/app/src/main/res/layout/popup_trader_chooser.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/drawable/home_icon.xml" value="0.36875" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.36875" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/drawable/ic_menu_camera.xml" value="0.36875" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.36875" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.36875" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/drawable/ic_outline_vpn_key_24.xml" value="0.36875" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/drawable/layout_bg.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/drawable/main_app_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/drawable/money_icon.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/drawable/side_nav_bar.xml" value="0.3828125" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/drawable/success_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/activity_cancel_order.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/activity_candle_stick.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/activity_forgot_password.xml" value="0.33" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/activity_home.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/activity_profile.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/activity_trader.xml" value="0.5" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/activity_trader_buy.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/header.xml" value="0.33" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/nav_header.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/popup_add.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/popup_alltrade_cancel_warning.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/popup_invalid_order_warning.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/popup_mywallets.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/layout/popup_trader_chooser.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Adi Dahari/Desktop/Software Engineering/CryptoBroker/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/drawable/ic_outline_vpn_key_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/drawable/myspinner.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/activity_Home.xml" value="0.25" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/activity_cancel_order.xml" value="0.25" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/activity_candle_stick.xml" value="0.25" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/activity_forgot_password.xml" value="0.4" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/activity_trader.xml" value="0.25" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/activity_trader_buy.xml" value="0.25" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/header.xml" value="0.25" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/popup.xml" value="0.264" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/popup_add.xml" value="0.4" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/popup_alltrade_cancel_warning.xml" value="0.25" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/popup_invalid_order_warning.xml" value="0.25" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/popup_mywallets.xml" value="0.25" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/popup_trader_chooser.xml" value="0.25" />
+        <entry key="..\:/Users/Gidon/Desktop/CryptoBroker/app/src/main/res/layout/popup_wallets.xml" value="0.25" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24791666666666667" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.24791666666666667" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.24791666666666667" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24791666666666667" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.14375" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/drawable/ic_outline_vpn_key_24.xml" value="0.24791666666666667" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/activity_cancel_order.xml" value="0.2" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/activity_forgot_password.xml" value="0.264" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/activity_home.xml" value="0.152" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/activity_trader.xml" value="0.264" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/activity_trader_buy.xml" value="0.1" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/content_navigation_drawer.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/fragment_gallery.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/fragment_home.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/fragment_slideshow.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/header.xml" value="0.2" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/kayour_bg.xml" value="0.1" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/popup_add.xml" value="0.264" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/popup_alltrade_cancel_warning.xml" value="0.264" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/popup_invalid_order_warning.xml" value="0.2" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/popup_mywallets.xml" value="0.264" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/layout/popup_trader_chooser.xml" value="0.4" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/menu/activity_main_drawer.xml" value="0.72" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/menu/main_menu.xml" value="0.4" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/menu/navigation_drawer.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoBroker/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/shmue/AndroidStudioProjects/CryptoTrader/app/src/main/res/layout/activity_main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

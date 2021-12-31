@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="350dp"
+    android:layout_height="400dp"
+    android:layout_gravity="center"
+    android:background="@drawable/layout_bg"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/txtclose"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="end"
+        android:gravity="center"
+        android:text="@string/x"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.987"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.013" />
+
+    <TextView
+        android:id="@+id/popupTopic"
+        android:layout_width="246dp"
+        android:layout_height="96dp"
+        android:gravity="center"
+        android:text="Please Choose Transaction Type"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/simpleOrderButton"
+        android:layout_width="231dp"
+        android:layout_height="59dp"
+        android:gravity="center"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"
+        android:text="new market order"
+        android:layout_marginTop="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/popupTopic" />
+
+    <Button
+        android:id="@+id/limitOrderButton"
+        android:layout_width="231dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:text="new limit order"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/simpleOrderButton" />
+
+    <Button
+        android:id="@+id/cancelTradeButton"
+        android:layout_width="231dp"
+        android:layout_height="59dp"
+        android:gravity="center"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"
+        android:text="@string/cancel_open_order"
+        android:layout_marginTop="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/limitOrderButton" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

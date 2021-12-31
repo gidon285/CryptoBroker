@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="400dp"
+    android:background="@null"
+    android:padding="5dp"
+    android:layout_gravity="center"
+    android:layout_centerInParent="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="350dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/layout_bg"
+        android:layout_alignParentBottom="true"
+        >
+    <ImageButton
+        android:id="@+id/shareButton"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:src="@drawable/share_icon"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/orderInputErrorText"
+        />
+
+        <TextView
+        android:id="@+id/orderInputTopic"
+        android:layout_width="256dp"
+        android:layout_height="66dp"
+        android:foregroundGravity="center"
+        android:textAlignment="center"
+        android:text="Error"
+        android:textColor="@color/white"
+        android:textSize="50sp"
+        android:textStyle="bold"
+            android:layout_marginTop="50dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/orderInputErrorText"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:textAlignment="center"
+        android:text="this is a temporary text that will be changed according to the error received from the order input"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/orderInputTopic"
+        />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/orderPopupImage"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/error_icon" />
+</RelativeLayout>

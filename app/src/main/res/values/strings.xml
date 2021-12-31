@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CryptoTrader</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="cancel_open_order">Cancel Open Order</string>
+    <string name="create_new_order">Create New Order</string>
+    <string name="x">X</string>
+    <string name="emergency_n_cancel_all_orders">EMERGENCY! \n Cancel ALL Orders!</string>
+    <string name="send_canceletion">Send Canceletion</string>
+    <string name="send_cancelation">send_cancelation</string>
+    <string name="send_cancellation">send_cancellation</string>
+    <string name="coint_market_value_limit_order_only">Coint Market Value (Limit Order Only)</string>
+    <string name="create_order">Create Order</string>
+</resources>

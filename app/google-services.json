@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316416279632",
+    "project_id": "cryptotrader-1a179",
+    "storage_bucket": "cryptotrader-1a179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316416279632:android:c4f64e8708b710fb35bd55",
+        "android_client_info": {
+          "package_name": "com.example.cryptotrader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316416279632-88d0jmdnkjv4hsh3pn7dscf9dv1vgj79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwqSvNhOQuEUr4DSvh-vdlEOk-UJ92gAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316416279632-88d0jmdnkjv4hsh3pn7dscf9dv1vgj79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
