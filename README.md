@@ -1,6 +1,6 @@
 # SCT - Smart Crypto Trader Android App
 
-<img src="https://github.com/gidon285/CryptoBroker/tree/master/readme" width="48">
+<img src="https://github.com/gidon285/CryptoBroker/readme/appgif.gif" width="48">
 Smart Crypto Trader is a Cryptocurrency trading Android App, based on [Binance](https://www.binance.com/en/my/dashboard) wallets.
 SCT provides the option of managing multiple wallets in parallel.
 
