@@ -5,8 +5,10 @@ Crypto Broker is a Cryptocurrency trading Android App, based on [Binance](https:
 Allowing mulipule wallets to be used at the same time, providing market values in realtime
 
 ## Video for example: 
+<p align="center">
+<img src="https://github.com/gidon285/CryptoBroker/blob/master/readme/appgif.gif" width="200" height="400"/>
+</p>
 
-<img src="https://github.com/gidon285/CryptoBroker/blob/master/readme/appgif.gif" width="200" height="350" left="200" />
 
 ## Installation
 
