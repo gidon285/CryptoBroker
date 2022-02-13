@@ -20,6 +20,7 @@ git clone https://github.com/gidon285/CryptoBroker.git
 -Run the app from Android Studio, the app will run on your device.
 
 <img src="https://github.com/gidon285/CryptoBroker/blob/master/readme/appgif.gif" width="200" height="350" />
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
